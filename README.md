@@ -19,3 +19,6 @@ and machine learning using Python.
 
 ## 📌 Projects
 - Titanic Exploratory Data Analysis (upcoming)
+
+📓 Notebooks
+- Titanic Exploratory Data Analysis (EDA)
